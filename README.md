@@ -7,7 +7,7 @@ This is a test application for learning technologies such as: **_NodeJS_**, **_M
 Clone the repo:
 
 ```sh
- $ git clone https://github.com/Kleimionov-WebRuby/OnlineShop-NodeJS.git
+ $ git clone https://github.com/Qry1/Online-Magazine.git
 ```
 
 #### Node.js
